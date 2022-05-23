@@ -1,4 +1,4 @@
-# geneluygulama
+# Yemek Tarifi
 
 A new Flutter project.
 
